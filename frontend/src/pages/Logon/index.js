@@ -28,7 +28,6 @@ export default function Logon(){
         }
     }
 
-
     return(
         <div className="logon-container">
             <section className="form">

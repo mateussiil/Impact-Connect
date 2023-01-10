@@ -14,20 +14,18 @@ function Home() {
       <section className="form">
         <img src={NameApp} alt="logo"/>
           <h1>Connect with NGOs and make a difference</h1>
-          <br/>
-          <p>Our app helps you find the right NGO for your cause and make a difference. Browse through a variety of NGOs and their projects, read reviews, and join campaigns that matter to you. </p>
-          <br/>
+          <p>Our app helps you find the right NGO for your cause and make a difference. Browse through a variety of NGOs and their projects, read reviews, and join campaigns that matter to you.</p>
           <p>These organizations may be focused on various causes such as environmental protection, human rights, animal welfare, and community development.</p>
           <Link className="button" to="/login">
-            Sign In
+            Login
           </Link>
           <Link className="back-link" to="/register">
               <FiLogIn size={16} color="#015942"/>
-              Create account
+              Don't have an account?
           </Link>
         </section>
         <div className='logon-image'>
-          <Image src={heroesImg} alt="Heroes"/>
+          <Image src={heroesImg} alt="Heroes working together"/>
         </div>
     </div>
   )
