@@ -3,7 +3,7 @@ import { Link, useHistory} from 'react-router-dom';
 import {FiLogIn} from 'react-icons/fi';
 
 import './styles.css';
-import heroesImg from '../../assets/heroes.png';
+import heroesImg from '../../assets/build-house.png';
 import logoImg from '../../assets/Impact Connect.png';
 
 import api from '../../services/api';
