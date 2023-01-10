@@ -19,11 +19,11 @@ function Home() {
           <br/>
           <p>These organizations may be focused on various causes such as environmental protection, human rights, animal welfare, and community development.</p>
           <Link className="button" to="/login">
-            Entrar
+            Sign In
           </Link>
           <Link className="back-link" to="/register">
               <FiLogIn size={16} color="#015942"/>
-              Não tenho cadastro
+              Create account
           </Link>
         </section>
         <div className='logon-image'>
