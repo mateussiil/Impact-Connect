@@ -1,7 +1,7 @@
 
 # Impact Connect
 
-![Logo](frontend\src\assets\Impact Connect.png)
+![logo](https://raw.githubusercontent.com/mateussiil/Impact-Connect/master/.github/Impact%20Connect.png)
 
 Our app helps you find the right NGO for your cause and make a difference. Browse through a variety of NGOs and their projects, read reviews, and join campaigns that matter to you.
 
